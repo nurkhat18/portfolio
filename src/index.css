@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.youtube-thumbnail {
+  position: relative;
+  display: inline-block;
+}
+
+.youtube-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10rem;
+  height: 10rem;
+  background: url('https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png') no-repeat center;
+  background-size: cover;
+  border-radius: 50%;
+}
+
