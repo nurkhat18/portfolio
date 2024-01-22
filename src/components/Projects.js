@@ -34,11 +34,11 @@ function Projects(){
           <div className="col-md col-12 p-5">
             <h3>Bookish</h3>
             <p>
-              I worked on a project in college with two friends. It was about book reviews, as you can tell from the title. However, the website is currently offline. Luckily, my project partner created a video showcasing the site, which I can share with you for more information.
+            I've co-created a website named 'Bookish' with two of my friends. As the name suggests, it's a platform dedicated to book reviews. Here, you can add, comment, and rate books. 
             </p>
           </div>
-           <div className="col-md col-12 p-5">
-            <a href="https://txt-nu-teal.vercel.app/" target="_blank">
+          <div className="col-md col-12 p-5">
+            <a href="http://167.99.60.236:3000" target="_blank">
               <img className="img-fluid border border-warning border-2 rounded" src="bookish.jpg" alt="Website Screenshot" />
             </a>
           </div>
