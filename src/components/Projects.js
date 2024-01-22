@@ -37,10 +37,9 @@ function Projects(){
               I worked on a project in college with two friends. It was about book reviews, as you can tell from the title. However, the website is currently offline. Luckily, my project partner created a video showcasing the site, which I can share with you for more information.
             </p>
           </div>
-          <div className="col-md col-12 p-5">
-            <a className="youtube-thumbnail" href="https://youtu.be/yClRM98TeAU" target="_blank">
-              <img className="img img-fluid rounded border border-danger border-2" src="bookish.jpg" alt="Video Thumbnail" />
-              <span class="youtube-logo"></span>
+           <div className="col-md col-12 p-5">
+            <a href="https://txt-nu-teal.vercel.app/" target="_blank">
+              <img className="img-fluid border border-warning border-2 rounded" src="bookish.jpg" alt="Website Screenshot" />
             </a>
           </div>
 
